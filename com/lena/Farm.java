@@ -139,10 +139,6 @@ public class Farm {
             }
         }
 
-        
-        //EclipseProject100$
-        //lenahacker10
-        
         // Second pass: Identify cows
         for (int i = 0; i < 4; i++) {
             if (guessUsed[i]) continue;  // Skip already used digits in guess
